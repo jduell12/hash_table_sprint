@@ -1,4 +1,4 @@
-import { has_negatives } from "./ex4";
+const { has_negatives } = require("./ex4");
 
 describe('has_negatives', ()=>{
     it('[1] small', ()=>{

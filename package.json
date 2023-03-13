@@ -1,0 +1,25 @@
+{
+  "name": "hash_table_sprint",
+  "version": "1.0.0",
+  "description": "**Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "jest": "^29.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jduell12/hash_table_sprint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jduell12/hash_table_sprint/issues"
+  },
+  "homepage": "https://github.com/jduell12/hash_table_sprint#readme"
+}

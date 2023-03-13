@@ -1,4 +1,4 @@
-import {Ticket, reconstruct_trip } from "./ex2";
+const {Ticket, reconstruct_trip } = require("./ex2") ;
 
 describe('Reconstruct Trip', ()=>{
     it('[1] short case', ()=>{

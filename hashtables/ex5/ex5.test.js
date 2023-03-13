@@ -1,4 +1,4 @@
-import { finder } from "./ex5";
+const { finder } = require("./ex5");
 
 describe('finder', ()=>{
     it('[1] small', ()=>{

@@ -1,4 +1,4 @@
-import { get_indices_of_item_weight } from "./ex1";
+const { get_indices_of_item_weight } = require('./ex1')
 
 describe('get_indices_of_item_weight', ()=>{
     it('[1] ex1_1', ()=>{

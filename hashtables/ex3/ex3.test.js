@@ -1,4 +1,4 @@
-import { intersection } from "./ex3";
+const { intersection } = require("./ex3");
 
 describe('Intersection', ()=>{
     it('[1] small', ()=>{
